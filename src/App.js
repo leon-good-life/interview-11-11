@@ -1,23 +1,20 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import jetsData from "./data";
+import JestsTable from "./components/JestsTable";
+import DetailsPanel from "./components/DetailsPanel";
+import { useState } from "react";
 
 function App() {
+  const [selectedJet, setSelectedJet] = useState(null);
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container d-flex mt-5">
+      <div className="flex-grow-1 mr-5">
+        <JestsTable jets={jetsData} onSelect={setSelectedJet} />
+      </div>
+      <div>
+        <DetailsPanel {...{ selectedJet }} />
+      </div>
     </div>
   );
 }

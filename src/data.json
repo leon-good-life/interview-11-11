@@ -1,0 +1,177 @@
+[
+  {
+    "id": 0,
+    "direction": 351.27,
+    "color": 1,
+    "type": 3,
+    "location": { "longitude": 86.44, "latitude": 15.43, "height": 68755.94 }
+  },
+  {
+    "id": 1,
+    "direction": 333.76,
+    "color": 0,
+    "type": 2,
+    "location": { "longitude": 16.61, "latitude": 29.94, "height": 66966.2 }
+  },
+  {
+    "id": 2,
+    "direction": 78.2,
+    "color": 1,
+    "type": 1,
+    "location": { "longitude": 30.99, "latitude": 66.94, "height": 89305.73 }
+  },
+  {
+    "id": 3,
+    "direction": 42.15,
+    "color": 0,
+    "type": 4,
+    "location": { "longitude": 9.55, "latitude": 45.3, "height": 60664.66 }
+  },
+  {
+    "id": 4,
+    "direction": 221.18,
+    "color": 0,
+    "type": 3,
+    "location": { "longitude": 48.83, "latitude": 7.14, "height": 69094.86 }
+  },
+  {
+    "id": 5,
+    "direction": 347.21,
+    "color": 0,
+    "type": 4,
+    "location": { "longitude": 84.29, "latitude": 68.58, "height": 74672.04 }
+  },
+  {
+    "id": 6,
+    "direction": 15.63,
+    "color": 0,
+    "type": 2,
+    "location": { "longitude": 34.33, "latitude": 28.85, "height": 76677.79 }
+  },
+  {
+    "id": 7,
+    "direction": 181.04,
+    "color": 0,
+    "type": 4,
+    "location": { "longitude": 44.15, "latitude": 82.49, "height": 62598.8 }
+  },
+  {
+    "id": 8,
+    "direction": 272.47,
+    "color": 0,
+    "type": 3,
+    "location": { "longitude": 75.72, "latitude": 81, "height": 65680.25 }
+  },
+  {
+    "id": 9,
+    "direction": 82.42,
+    "color": 0,
+    "type": 3,
+    "location": { "longitude": 30.04, "latitude": 31.14, "height": 69640.47 }
+  },
+  {
+    "id": 10,
+    "direction": 265.26,
+    "color": 1,
+    "type": 4,
+    "location": { "longitude": 89.92, "latitude": 19.81, "height": 76851.84 }
+  },
+  {
+    "id": 11,
+    "direction": 160.94,
+    "color": 1,
+    "type": 3,
+    "location": { "longitude": 65.05, "latitude": 27.08, "height": 59482.31 }
+  },
+  {
+    "id": 12,
+    "direction": 167.33,
+    "color": 0,
+    "type": 2,
+    "location": { "longitude": 13.84, "latitude": 54.29, "height": 73869.26 }
+  },
+  {
+    "id": 13,
+    "direction": 104.14,
+    "color": 1,
+    "type": 3,
+    "location": { "longitude": 37.53, "latitude": 70.71, "height": 72540.06 }
+  },
+  {
+    "id": 14,
+    "direction": 250.9,
+    "color": 1,
+    "type": 3,
+    "location": { "longitude": 52.65, "latitude": 63.69, "height": 85697.54 }
+  },
+  {
+    "id": 15,
+    "direction": 340.63,
+    "color": 0,
+    "type": 0,
+    "location": { "longitude": 2.41, "latitude": 58.02, "height": 87443.02 }
+  },
+  {
+    "id": 16,
+    "direction": 298.56,
+    "color": 0,
+    "type": 3,
+    "location": { "longitude": 27.54, "latitude": 3.91, "height": 75440.51 }
+  },
+  {
+    "id": 17,
+    "direction": 235.78,
+    "color": 1,
+    "type": 1,
+    "location": { "longitude": 48.9, "latitude": 33.88, "height": 56578.18 }
+  },
+  {
+    "id": 18,
+    "direction": 291.41,
+    "color": 1,
+    "type": 1,
+    "location": { "longitude": 6.64, "latitude": 4.01, "height": 58889.07 }
+  },
+  {
+    "id": 19,
+    "direction": 261.77,
+    "color": 1,
+    "type": 2,
+    "location": { "longitude": 24.66, "latitude": 27.2, "height": 53881.9 }
+  },
+  {
+    "id": 20,
+    "direction": 327.56,
+    "color": 0,
+    "type": 2,
+    "location": { "longitude": 69.08, "latitude": 69.89, "height": 73655.33 }
+  },
+  {
+    "id": 21,
+    "direction": 27.48,
+    "color": 1,
+    "type": 0,
+    "location": { "longitude": 58.18, "latitude": 29.2, "height": 53983.03 }
+  },
+  {
+    "id": 22,
+    "direction": 327.68,
+    "color": 0,
+    "type": 0,
+    "location": { "longitude": 11.5, "latitude": 68.58, "height": 80066.58 }
+  },
+  {
+    "id": 23,
+    "direction": 125.46,
+    "color": 1,
+    "type": 3,
+    "location": { "longitude": 53.72, "latitude": 69.8, "height": 75301.49 }
+  },
+  {
+    "id": 24,
+    "direction": 225.39,
+    "color": 0,
+    "type": 3,
+    "location": { "longitude": 84.46, "latitude": 26.96, "height": 62996.12 }
+  }
+]
